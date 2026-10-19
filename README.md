@@ -26,9 +26,9 @@ https://github.com/errevegustavo/act9-api-cliente
 
 ## 3. Modelo de datos relacional
 
-El sistema está compuesto por una entidad principal relacional denominada `cliente`, diseñada para prevenir la duplicidad de registros mediante restricciones a nivel de base de datos.
+El sistema está compuesto por una entidad principal relacional denominada `clientes`, diseñada para prevenir la duplicidad de registros mediante restricciones a nivel de base de datos.
 
-### 3.1. Tabla Cliente
+### 3.1. Tabla Clientes
 
 | Campo | Tipo de dato | Descripción |
 | :--- | :--- | :--- |
@@ -168,7 +168,7 @@ Para ejecutar el proyecto en un entorno local, se deben seguir los siguientes pa
 
 ```bash
 git clone https://github.com/errevegustavo/act9-api-cliente
-cd api-cliente-sumativa
+cd act9-api-clientes
 ```
 
 **Paso 2. Instalar las dependencias**
